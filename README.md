@@ -1,6 +1,6 @@
 # tibao_server
 
-## Android 端
+## Android 
 https://github.com/hwj20/Tibao/blob/master/README.md
 
 
